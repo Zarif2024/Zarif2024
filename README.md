@@ -1,59 +1,67 @@
-# Hi there 👋, I'm Mohammad Zarif
+# 👋 Hi there, I'm Mohammad Zarif
 
-### 💻 JavaScript Full-Stack Developer | Vue Specialist
+### 💻 Full-Stack Developer | Vue & Python Specialist
 
-- 🔭 Currently building **[Smart Book](https://github.com/Zarif2024/Smart-Book)** (Vue 3 + Firebase)
-- 🌱 Learning **Data Structures & Algorithms**
-- 🛠 Core stack: `Vue 3`, `JavaScript`, `Firebase`, `Tailwind CSS`
-- 📫 How to reach me: [mohammadzarifhossainyar@gmail.com](mailto:mohammadzarifhossainyar@gmail.com)
+- 🔭 Currently building [**Manufacture App**](https://github.com/Zarif2024/Manufacture-App) (Vue + Firebase)
+- 🌱 Mastering **Advanced Data Structures in Python**
+- 🛠 Core stack: `Vue 3`, `Python`, `Firebase`, `Tailwind CSS`
+- 📫 Reach me: [mohammadzarifhossainyar@gmail.com](mailto:mohammadzarifhossainyar@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="Vue">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue-dark&hide=issues&hide_title=true&include_all_commits=true&custom_title=Zarif's%20Development%20Activity)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif2024&layout=compact&theme=vue-dark&hide=html,css&langs_count=5&exclude_repo=Zarif2024.github.io)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue-dark&hide=issues&include_all_commits=true&custom_title=My%20Coding%20Journey" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif2024&layout=compact&theme=vue-dark&hide=html,css&langs_count=4&exclude_repo=Zarif2024.github.io" width="320" />
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<p align="center">
+  <!-- Replace private repos with custom links or text -->
+  <a href="https://github.com/Zarif2024/Manufacture-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Manufacture-App&theme=vue-dark" />
+  </a>
 
-[![Smart Book](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Smart-Book&theme=vue-dark)](https://github.com/Zarif2024/Smart-Book)
-[![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Quiz-App&theme=vue-dark)](https://github.com/Zarif2024/Quiz-App)
+  <a href="https://github.com/Zarif2024/Complete-Data-Structure-in-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Complete-Data-Structure-in-Python&theme=vue-dark" />
+  </a>
 
-</div>
+  <!-- Custom fallback for private repo -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Smart Book-(Private Repo)-lightgrey?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zarif2024&theme=onedark&no-frame=true&margin-w=15&row=2)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zarif2024&theme=onedark&no-frame=true&margin-w=15&row=2" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/mohammad-zarif-hossain-yar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="100" />
   </a>
   <a href="mailto:mohammadzarifhossainyar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="85" />
   </a>
 </p>
