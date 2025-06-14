@@ -1,33 +1,32 @@
-# Hi there 👋, I'm Mohammad Zarif
+# 📊 GitHub Analytics
 
-### 💻 Full-Stack Developer | Vue & Python Specialist
+<div align="center">
 
+| Coding Activity | Language Breakdown |
+|-----------------|--------------------|
+| ![Your Dev Stats](https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif2024&layout=compact&theme=vue) |
+
+</div>
+
+# 🚀 Project Showcase
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+[![Smart Book](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Smart-Book&theme=vue)](https://github.com/Zarif2024/Smart-Book)
+[![Manufacture App](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Manufacture-App&theme=vue)](https://github.com/Zarif2024/Manufacture-App)
+[![Python DS](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Complete-Data-Structure-in-Python&theme=vue)](https://github.com/Zarif2024/Complete-Data-Structure-in-Python)
+
+</div>
+
+# 🏅 Achievements
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Zarif2024&margin-w=15&no-frame=true)
+
+# 🌐 Connect
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC08D&center=true&width=435&lines=Modern+Web+Developer;Python+Enthusiast;Clean+Code+Advocate" alt="Typing animation">
+  <a href="https://linkedin.com/in/mohammad-zarif-hossain-yar">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin" width="110">
+  </a>
+  <a href="mailto:mohammadzarifhossainyar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail" width="90">
+  </a>
 </p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" title="Vue 3">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" title="Python 3">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" title="Firebase">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" title="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" title="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" title="Git">
-</p>
-
----
-
-## 🔥 Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 25px 0;">
-
-### 🏭 Manufacture App (Private)
-```markdown
-▸ Vue 3 + Vite + Pinia
-▸ Firebase Realtime DB
-▸ JWT Authentication
-▸ Tailwind UI Components
-▸ Responsive Design
