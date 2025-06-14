@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
@@ -25,9 +24,9 @@
 
 <div align="center">
   
-| JavaScript/Vue Focused Stats | Weekly Development Breakdown |
+| JavaScript/Vue Focused Stats | 
 |------------------------------|-------------------------------|
-| ![Zarif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue-dark&hide=contribs&include_all_commits=true) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zarif2024&layout=compact&theme=vue-dark) |
+| ![Zarif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue-dark&hide=contribs&include_all_commits=true) | 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zarif2024&theme=vue-dark&hide_border=true)
 
