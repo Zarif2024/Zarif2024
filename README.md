@@ -35,14 +35,7 @@
 
 ---
 
-## 🔥 Featured Projects
 
-### Vue.js Projects
-[![Smart Book](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=smart-book&theme=vue-dark)](https://github.com/Zarif2024/smart-book)
-[![Vue Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=vue-dashboard&theme=vue-dark)](https://github.com/Zarif2024/vue-dashboard)
-
-### Data Science Projects
-[![Data Mining Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=data-mining-toolkit&theme=vue-dark)](https://github.com/Zarif2024/data-mining-toolkit)
 
 ---
 
