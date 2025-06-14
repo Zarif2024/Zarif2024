@@ -31,25 +31,25 @@
 
 ## 🔥 Featured Projects
 
-<p align="center">
-  <!-- Replace private repos with custom links or text -->
-  <a href="https://github.com/Zarif2024/Manufacture-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Manufacture-App&theme=vue-dark" />
-  </a>
+### 📦 Manufacture App
+> A scalable and modular management system for purchases, expenses, HR, and reporting — built with Vue 3 + Firebase.
 
-  <a href="https://github.com/Zarif2024/Complete-Data-Structure-in-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=Complete-Data-Structure-in-Python&theme=vue-dark" />
-  </a>
+[🔗 GitHub Repo](https://github.com/Zarif2024/Manufacture-App)
 
-  <!-- Custom fallback for private repo -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Smart Book-(Private Repo)-lightgrey?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### 🧠 Complete Data Structures in Python
+> A fully documented repository for learning and implementing essential and advanced data structures in Python.
+
+[🔗 GitHub Repo](https://github.com/Zarif2024/Complete-Data-Structure-in-Python)
+
+### 🔒 Smart Book *(Private Repository)*
+> A personal book-tracking app with smart search, categorization, and Firebase cloud sync using Vue 3.
+
+[🔒 Private – not viewable]
 
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zarif2024&theme=onedark&no-frame=true&margin-w=15&row=2" />
 </p>
@@ -57,6 +57,7 @@
 ---
 
 ## 📫 Let's Connect
+
 <p align="center">
   <a href="https://linkedin.com/in/mohammad-zarif-hossain-yar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="100" />
