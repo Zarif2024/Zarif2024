@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
@@ -32,19 +32,7 @@
 
 </div>
 
----
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Smart Book Project](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=smart-book&theme=vue-dark)](https://github.com/Zarif2024/smart-book)
-
-[![Data Mining Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Zarif2024&repo=data-mining-toolkit&theme=vue-dark)](https://github.com/Zarif2024/data-mining-toolkit)
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zarif2024&theme=onedark&no-frame=true&row=2&column=4)
