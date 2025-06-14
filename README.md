@@ -2,9 +2,9 @@
 
 ### 💻 Full-Stack Developer | Vue & JavaScript Specialist
 
-- 🔭 Currently building **Smart Book** (Vue.js + Node.js)
+- 🔭 Currently building **Smart Book** (Vue.js + PHP laravel)
 - 🌱 Deep diving into **Data Mining & Machine Learning**
-- 🛠 Core stack: `Vue`, `JavaScript`, `Node.js`, `Python`, `Tailwind CSS`
+- 🛠 Core stack: `Vue`, `JavaScript`, `Flutter`, `Python`, `Tailwind CSS`
 - 😄 Pronouns: He/Him
 
 ---
@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Flutter-339933?logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
