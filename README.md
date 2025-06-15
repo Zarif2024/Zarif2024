@@ -3,7 +3,7 @@
 ### 💻 Full-Stack Developer | Vue & JavaScript Specialist
 
 - 🔭 Currently building **Smart Book** (Vue.js + PHP laravel)
-- 🌱 Deep diving into **Data Mining & Machine Learning**
+- 🌱 Deep diving into **Data Mining & Web3 Blockchain**
 - 🛠 Core stack: `Vue`, `JavaScript`, `Flutter`, `Python`, `Tailwind CSS`
 - 😄 Pronouns: He/Him
 
