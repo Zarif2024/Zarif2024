@@ -15,7 +15,7 @@
 <div align="center">
 ### 📊 GitHub Analytics
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide=contribs&custom_title=My%20Development%20Activity)](https://github.com/Zarif2024)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif2024&layout=compact&theme=vue-dark&hide=html,css,scss&langs_count=6&exclude_repo=private-repo-1,private-repo-2)](https://github.com/Zarif2024)
 
