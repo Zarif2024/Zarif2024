@@ -12,7 +12,7 @@
 ## 🚀 My Development Journey
 
 
-
+<div align="center">
 ### 📊 GitHub Analytics
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zarif2024&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide=contribs&custom_title=My%20Development%20Activity)](https://github.com/Zarif2024)
