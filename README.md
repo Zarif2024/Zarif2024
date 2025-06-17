@@ -11,7 +11,7 @@
 
 ## 🚀 My Development Journey
 
-<div align="center">
+
 
 ### 📊 GitHub Analytics
 
